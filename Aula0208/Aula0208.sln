@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto0208", "Projeto0208\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoOrientacaoObjeto", "ProjetoOrientacaoObjeto\ProjetoOrientacaoObjeto.csproj", "{ECFA0A23-6C16-4E2E-96DA-CA73C4546558}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoWPF", "ProjetoWPF\ProjetoWPF.csproj", "{FDEF4FB2-20F5-4F3F-9E7A-536EA46B1FFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraWPF", "CalculadoraWPF\CalculadoraWPF.csproj", "{6179E492-D396-4B2C-9668-800DA618AEBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{ECFA0A23-6C16-4E2E-96DA-CA73C4546558}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECFA0A23-6C16-4E2E-96DA-CA73C4546558}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECFA0A23-6C16-4E2E-96DA-CA73C4546558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDEF4FB2-20F5-4F3F-9E7A-536EA46B1FFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDEF4FB2-20F5-4F3F-9E7A-536EA46B1FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDEF4FB2-20F5-4F3F-9E7A-536EA46B1FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDEF4FB2-20F5-4F3F-9E7A-536EA46B1FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6179E492-D396-4B2C-9668-800DA618AEBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6179E492-D396-4B2C-9668-800DA618AEBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6179E492-D396-4B2C-9668-800DA618AEBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6179E492-D396-4B2C-9668-800DA618AEBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
